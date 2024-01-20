@@ -1,0 +1,54 @@
+/* .form-container
+{
+    display:flex;
+    flex-direction: row;
+} */
+.f1{
+    float: left;
+    margin-left:18%;
+  }
+  .f2
+  {
+    float: left;
+    margin-left:18%;
+
+  }
+.btn1
+{
+    background-color: green;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn2
+{
+    background-color: red;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}  
+/* h4{
+    text-align: center;
+    margin-left: 300px;
+} */
+
+  
+   
+  
+  
+  
+.tbl-container{
+  max-height: fit-content;
+}
+.tbl-fixed{
+  overflow-y: scroll;
+  overflow-x: scroll;
+  height: 45vh;
+}
+  
+  
+  

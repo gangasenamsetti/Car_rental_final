@@ -1,0 +1,30 @@
+#btn
+{
+  background-color: green;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.th{
+    float: left;
+    margin-left: 250px;
+}
+
+/* img{
+    float: right;
+    margin-right: 0px;
+    margin-top: -150px;
+} */
+
+.ta{
+    float: left;
+}
+#a #b #c #d{
+    float: left;
+}
+#e
+{
+    float: right;
+}
